@@ -58,10 +58,10 @@ Separei a conexão em database.py pra não precisar ficar repetindo o mesmo cód
 ## ▶️ Como Executar o Projeto
 1️⃣ Puxando o projeto pra sua máquina
 ```text
-git clone 
+git clone https://github.com/RuyLuques/looqbox-desafio-2026
 ```
 ```text
-cd looqbox
+cd looqbox-desafio-2026
 ```
 
 2️⃣ Instalando as dependências
